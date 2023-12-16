@@ -25,15 +25,15 @@ public class Rules  extends JFrame  implements  ActionListener{
         rules.setBounds(20, 90, 700, 350);
         rules.setFont(new Font("Tahoma", Font.PLAIN, 16));
         rules.setText(
-                "<html>"+
-                        "1. You are trained to be a programmer and not a story teller, answer point to point" + "<br><br>" +
-                        "2. Do not unnecessarily smile at the person sitting next to you, they may also not know the answer" + "<br><br>" +
-                        "3. You may have lot of options in life but here all the questions are compulsory" + "<br><br>" +
-                        "4. Crying is allowed but please do so quietly." + "<br><br>" +
-                        "5. Only a fool asks and a wise answers (Be wise, not otherwise)" + "<br><br>" +
-                        "6. Do not get nervous if your friend is answering more questions, may be he/she is doing Jai Mata Di" + "<br><br>" +
-                        "7. Brace yourself, this paper is not for the faint hearted" + "<br><br>" +
-                        "8. May you know more than what John Snow knows, Good Luck" + "<br><br>" +
+            "<html>"+
+                        "1. Brain Battle consists of 10 questions in total" + "<br><br>" +
+                        "2. Where 2 questions are designed to test your Math aptitude, and the remaining 8 are focused on JAVA." + "<br><br>" +
+                        "3. Each question presents you with 4 options." + "<br><br>" +
+                        "4. You'll have a time limit of 15 seconds to answer each question." + "<br><br>" +
+                        "5. Once the time elapses, you will be automatically redirected to the next question." + "<br><br>" +
+                        "6. Introducing a special feature called LifeLine. You can use it only once during the entire exam." + "<br><br>" +
+                        "7. Upon using the LifeLine, two incorrect options will be disabled automatically." + "<br><br>" +
+                        "8. Enjoy the Test and best wishes to Win the Battle" + "<br><br>" +
                         "<html>"
         );
         add(rules);
