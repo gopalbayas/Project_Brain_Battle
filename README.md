@@ -1,1 +1,1 @@
-# Project_Brain_Battle
+# BrainBattle
